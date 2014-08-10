@@ -1,0 +1,45 @@
+Places
+======
+
+Updated: Dec 22, 2007
+
+Locations
+---------
+Kingston, ON, Canada - 1
+Brockville ON, Canada - 2
+Ottawa, ON, Canada
+London, England - 100
+Reading, England - 120
+Winchester, England - 1
+Rome, Italy - 5
+Florence, Italy - 3
+
+Bristol - 5
+
+Bray - 1
+Dublin - 4
+
+Brockville - 22
+Mississauga - 14
+
+Amsterdam - 6
+Munster - 2
+Trier - 1
+Mainz - 2
+Bad Homburg - 8
+Berlin - 4
+Prague - 6
+Vienna - 1
+Rome - 2
+Barcelona - 6
+Paris - 1
+Geneva - 3
+Grenoble - 2
+Brussels - 2
+Brues - 1
+Ypres - 1
+
+Oxford - 5
+
+Airports: 8
+Flights: 10
