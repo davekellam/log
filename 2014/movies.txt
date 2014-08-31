@@ -19,6 +19,7 @@
 2014.04.26 - Star Trek Into Darkness
 2014.05.07 - Another Day to Die Hard
 2014.05.08 - Knuckleball
+2014.05.12 - The Lego Movie
 2014.05.22 - The Hitch Hiker’s Guide to the Galaxy
 2014.06.28 - Jack Ryan: Shadow Recruit
 2014.07.04 - The Grand Budapest Hotel
@@ -37,3 +38,7 @@
 2014.08.09 - Robocop (2014)
 2014.08.10 - The Dark Knight
 2014.08.12 - Chef
+2014.08.15 - Grudge Match
+2014.08.15 - Million Dollar Arm
+2014.08.15 - Transcendence
+2014.08.25 - The Grand Budapest Hotel
