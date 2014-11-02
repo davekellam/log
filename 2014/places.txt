@@ -1,6 +1,6 @@
 Montreal, Quebec, Canada
 Ottawa, Ontario, Canada
-Scottsdale, Arizona, Canada
+Scottsdale, Arizona, United States
 Mesa, Arizona, Canada
 Victoria Falls, Zimbabwe
 Cape Town, South Africa
@@ -9,3 +9,5 @@ Prague, Czech Republic
 Pasing, Munich, Germany
 Munich, Germany
 Frankfurt, Germany
+Brockville, Ontario, Canada
+Brooklyn, New York, United States
