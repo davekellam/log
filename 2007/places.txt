@@ -36,7 +36,7 @@ Paris - 1
 Geneva - 3
 Grenoble - 2
 Brussels - 2
-Brues - 1
+Bruges - 1
 Ypres - 1
 
 Oxford - 5
